@@ -1,0 +1,41 @@
+body{
+    margin:10px;
+    padding:5px;
+    text-align: center;
+}
+
+div{
+    margin:auto;
+    width: 400px;
+    text-align: center;
+    
+}
+
+.container {
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+    
+}
+
+.container table{
+    width:500px;
+}
+
+.taxTables{
+    
+    width: 60%;
+    text-align: left;
+    margin: 0 auto;
+
+}
+
+.taxTables tables{
+   width:60%;
+   text-align: left;
+
+}
+
+.thead-light{
+    background-color: #5bc0de;
+}
